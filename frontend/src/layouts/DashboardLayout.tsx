@@ -110,7 +110,7 @@ export default function DashboardLayout() {
         </Sheet>
 
         {/* Page Content */}
-        <Box sx={{ p: 3 }}>
+        <Box>
           <Outlet />
         </Box>
       </Box>

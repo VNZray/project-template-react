@@ -1,4 +1,4 @@
-import { AuthProvider } from "../context/authContext";
+import { AuthProvider } from "@/context/AuthContext";
 import DashboardLayout from "../layouts/DashboardLayout";
 import Layout from "../layouts/Layout";
 import About from "../pages/About";

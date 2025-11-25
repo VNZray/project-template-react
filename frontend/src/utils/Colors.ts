@@ -9,9 +9,8 @@ export const colors = {
     dark: "#1a1a1a",
     info: "#5bc0de",
     odd: "#F3F4F6",
-};
-
-export const theme = {
-    light: "#00B4D8",
-    dark: "#03045E",
+    undefined: undefined,
+    transparentWhite: "rgba(255, 255, 255, 0.5)",
+    transparentBlack: "rgba(40, 40, 40, 0.5)",
+    transparent: "transparent",
 };
